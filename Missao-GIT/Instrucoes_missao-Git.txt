@@ -1,0 +1,51 @@
+Fala Devs!!!
+
+Conforme comentei com vcs, vou ajudar da melhor forma possivel em cada modulo de estudos direcionando e tentando realizar a fixação do conteudo aprendido.
+
+A maneira mais eficaz que temos de fixação do aprendizado é realizando os desafios, pois coloca em pratica tudo que aprendemos tornando maior assimilação do conteudo a cada desafio concluido.
+
+E pode confiar é de extrema importancia uma vez que vc tem que realizar um pedido, uma missao, não simplesmente refazer. Isto faz total diferença.
+
+Então bora lá por a mão na massa...
+
+Esta missao deve ser entregue até o final de semana no dia 07/12/2019 as 23:59.
+
+Vc pode realizar os estudos e a missao tudo no fim de semana, embora, eu nao aconselhe.
+
+O tempo de Estudos é importante, principalmente para poder dividi-lo com as demais pessoas e atividades tornando o maximo possivel proveitoso e manter a harmonia com os demais projetos. "Família, atividades na comunidade..." Gerando o menor stress possivel. Com certeza esta harmonia te trara beneficios uma vez que tendo o apoio dos que estao ao seu lado é muito melhor e pode ter certeza, vc vai precisar. Nas noites "Escuras, qdo precisar intensificar os estudos..."
+ 
+Anote em um caderno a disciplina e principalmente os comando e para que servem de forma mais simples e objetiva, como uma especie de CARD, onde vc bate o Olho e já identifica do que se trata.
+
+Segue aqui um roteiro de estudos para que nao fique pesado e vc consiga tirar o maior proveito possivel.
+
+Um conselho que dou é se for estudar muitas horas seguidas, mais de 2 horas tenha um intervalo para tomar um suco, café fazer um lanchinho, bater um papo com o companheiro(a).. pelo menos uns 20min.
+
+Estude no maximo mais 1h e meia ou 2h nao passe disto.
+
+Estudos para o Modulo 3 GIT - Versionamento de Codigo
+02/12/2019 - 19:00 as 20:30
+aulas (1, 2, 3, 4)
+
+03/12/2019 - 19:00 as 20:30
+aulas (5, 6, 7, 8)
+
+04/12/2019 - 19:00 as 20:30
+aulas (9, 10, 11)
+
+05/12/2019 - 19:00 as 20:30
+aulas (12, 13, 14)
+
+06/12/2019 - 19:00 as 20:30
+aulas (15, 16, 17)
+
+
+Desafio - Missão para conclusão do Modulo.
+
+1 -Acesse sua conta do Git On-line e pesquise pelo repositorio grpdev-frontend
+2 - começe a seguir para ter acesso aos projetos e repositorios.
+3 - Faça um FORK no repositorio grpdev-frontend/cursoFrontend-Bonieky.
+4 - Atualize o seu GIT local por linha de comandos com o Projeto MASTER/cursoFrontend-Bonieky
+5 - Crie um Branch apartir do MASTER chamado Seucodinome-devfrontend
+6 - Acesse seu Branch e prossiga com as alteraçoes solicitadas.
+7 - Dentro da Pasta Missao-GIT, crie um arquivo com seu codenome.txt com a seguinte mensagem " Alo Mundo!!! Missão GIT - Versionamento de Codigo"
+6 - Commite e Realize um MERGE e Suba o Projeto para o Repositorio com PullRequest para finalizar a Missão.
