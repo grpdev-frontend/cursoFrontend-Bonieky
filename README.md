@@ -7,3 +7,4 @@ Se vc esta visualizando este arquivo apos baixar do meu repositorio por commando
 
 Alterado por Silveirapdu
 Alterado via git.. por silveirapdu
+Alterado para pull-request
